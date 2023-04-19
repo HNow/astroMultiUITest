@@ -1,0 +1,28 @@
+.container{
+
+    width: 700px;
+    height: 400px;
+    border-radius: 30px;
+    border-style: solid;
+    border-color: aqua;
+
+}
+
+.left{
+    width: fit-content;
+    max-width: 200px;
+    height: inherit;
+    border-radius: 20px;
+    
+
+
+
+    background-color: bisque;
+
+}
+
+.cardTitle{
+
+    margin: 10px;
+    padding: 10px;
+}
